@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: Report an issue that doesn't fit into other categories
 title: ''
 labels: ''
 assignees: ''
