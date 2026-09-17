@@ -65,7 +65,7 @@ public class ApplyMmWithdrawRequest {
 
     @SerializedName(SERIALIZED_NAME_WALLET_TYPE)
     @jakarta.annotation.Nullable
-    private WalletType walletType = WalletType.WALLET_TYPE_0;
+    private WalletType walletType;
 
     public static final String SERIALIZED_NAME_NAME = "name";
 

@@ -65,7 +65,7 @@ public class ApplyMmDepositRequest {
 
     @SerializedName(SERIALIZED_NAME_CHAIN_ID)
     @jakarta.annotation.Nullable
-    private String chainId = "56";
+    private String chainId;
 
     public ApplyMmDepositRequest() {}
 
